@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 //        print("My name is Taylor Lyles")
         
+        nameLabel.text = ""
+        hobbiesLabel.text = ""
+        
 
 }
     
